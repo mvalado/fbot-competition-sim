@@ -10,7 +10,7 @@
     - pull request - merge repo
 
 
-## Tutorial preparando o gearbot
+## Tutorial preparando o gearsbot
     - configurando mapa
     - configurando robo
     - ter um código de exemplo
