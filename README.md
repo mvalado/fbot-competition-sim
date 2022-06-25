@@ -7,7 +7,7 @@
 
 ## Turiral github parte 2
     - fetch repo
-    - merge repo
+    - pull request - merge repo
 
 
 ## Tutorial preparando o gearbot
