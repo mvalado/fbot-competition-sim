@@ -8,6 +8,7 @@
 Temos dois mapas, eles se encontram na pasta `gearsbot/maps`.
     
 Para carregar os mapas no gearsbot, apenas selecionar a opção *Load from file* no menu *Worlds*
+
 ![open-menu](https://user-images.githubusercontent.com/31012982/176166348-935b6a34-e980-4a68-8d4e-9fea656bc18c.png)
 
 De preferencia utilizar o mapa sem bordas, já que na competição temos que nos preocupar com que o robô não caia
