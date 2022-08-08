@@ -14,7 +14,14 @@ Para carregar os mapas no gearsbot, apenas selecionar a opção *Load from file*
 De preferencia utilizar o mapa sem bordas, já que na competição temos que nos preocupar com que o robô não caia
 
 ### Robô
-Não temos nenhum definido ainda, então crie um conforme o necessário
+Por enquanto temos um robô provisório para testes no simulador no arquivo `singleFollower Custom(3).json` dentro do nosso git
+
+![robô](![image](https://user-images.githubusercontent.com/86270082/183505444-27782cff-a57d-4e62-b078-1595cee16b84.png)
+
+Para fazer upload do robô basta clickar em *Load from file* dentro da opção *Robot*
+
+![robô](![image](https://user-images.githubusercontent.com/86270082/183504809-24bcda28-a93b-4d13-96e1-cc249918d540.png)
+
 
 ### Códigos
 Conforme irem programando salvem seus codigos na pasta `codigos`, é mais confiavel eles estarem salvos no github do que no gearsbot.
